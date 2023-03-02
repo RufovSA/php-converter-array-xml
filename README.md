@@ -1,6 +1,8 @@
 # ConverterArrayXML
 
+<!--
 [![Latest Version](https://img.shields.io/github/release/rufovS/php-converter-array-xml.svg?style=flat-square)](https://github.com/rufovS/php-converter-array-xml/releases)
+-->
 [![Software License](https://img.shields.io/badge/license-BSD_3_Clause-brightgreen.svg?style=flat-square)](LICENSE.md)
 <!--
 ![Tests](https://github.com/rufovS/php-converter-array-xml/workflows/Tests/badge.svg)
