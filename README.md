@@ -3,7 +3,7 @@
 [![Latest Version](https://img.shields.io/github/release/rufovS/php-converter-array-xml.svg?style=flat-square)](https://github.com/rufovS/php-converter-array-xml/releases)
 [![Software License](https://img.shields.io/badge/license-BSD_3_Clause-brightgreen.svg?style=flat-square)](LICENSE.md)
 ![Tests](https://github.com/rufovS/php-converter-array-xml/workflows/Tests/badge.svg)
-[![Total Downloads](https://img.shields.io/packagist/dt/rufovS/php-converter-array-xml.svg?style=flat-square)](https://packagist.org/packages/rufovS/php-converter-array-xml)
+[![Total Downloads](https://img.shields.io/packagist/dt/rufov/php-converter-array-xml.svg?style=flat-square)](https://packagist.org/packages/rufov/php-converter-array-xml)
 
 The class is designed to convert an XML document into a PHP array and vice versa
 
