@@ -31,7 +31,7 @@
     "require-dev": {
         "mockery/mockery": "^1.2",
         "pestphp/pest": "^1.21",
-        "spatie/pest-plugin-snapshots": "^1.1"
+        "spatie/pest-plugin-snapshots": "^2.0"
     },
     "autoload": {
         "psr-4": {
