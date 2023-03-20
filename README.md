@@ -115,6 +115,14 @@ At the end you will get the following xml document.
 vendor/bin/phpunit
 ```
 
+## Contributors
+
+Thanks to all the people who already contributed!
+
+<a href="https://github.com/UniverseGroups/universe-id/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=UniverseGroups/universe-id" alt="Contributors" />
+</a>
+
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
