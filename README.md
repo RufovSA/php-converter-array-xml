@@ -119,8 +119,8 @@ vendor/bin/phpunit
 
 Thanks to all the people who already contributed!
 
-<a href="https://github.com/UniverseGroups/universe-id/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=UniverseGroups/universe-id" alt="Contributors" />
+<a href="https://github.com/rufovS/php-converter-array-xml/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=rufovS/php-converter-array-xml" alt="Contributors" />
 </a>
 
 ## Changelog
